@@ -1,0 +1,43 @@
+body{
+  bac
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+  text-align: center;
+
+}
+.container-top{
+
+  width: 700px;
+  height: 200px;
+  background-color: yellow;
+  margin-left: 430px;
+  border: 0px;
+  border-radius: 50px;
+
+}
+.input-box{
+  width: 500px;
+  height: 25px;
+  text-align: center;
+  border-radius: 3px;
+  border: 1px solid black;
+  font-size: larger;
+}
+
+.btn{
+  border-radius: 6px;
+  border: 0px;
+  margin-left: 5px;
+  height: 30px;
+  background-color:  white;
+  margin-top: 20px;
+  font-size: larger;
+  width: 100px;
+  
+}
+:hover.btn{
+  background-color: blue;
+  cursor: pointer;
+}
+
